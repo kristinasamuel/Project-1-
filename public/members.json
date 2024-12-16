@@ -1,5 +1,51 @@
 [
-    { "rollNumber":482686, "name": "kristina", "email": "ali@example.com"  },
-    { "rollNumber": 482198, "name": "Sara", "email": "sara@example.com"  },
-    { "rollNumber": 329867, "name": "Ahmed", "email": "ahmed@example.com"  }
+  {
+    "rollNumber": 482686,
+    "name": "Karistina",
+    "email": "karistina97@gmail.com",
+    "profession": "Frontend Developer",
+    "skills": ["HTML" ,   "CSS",  "TYPESCRIPT"]
+  },
+  {
+    "rollNumber":477831,
+    "name": "Shurem Ali",
+    "email": "ShuremAli@gmail.com",
+    "profession": "Frontend Developer",
+    "skills": ["HTML", "CSS", "TYPESCRIPT"]
+  },
+  {
+    "rollNumber": 262319,
+    "name": "Hafsa Khan",
+    "email": "HafsaKhan@gmail.com ",
+    "profession": "Frontend Developer",
+    "skills": ["HTML", "CSS", "TYPESCRIPT"]
+  },
+  {
+    "rollNumber": 272819,
+    "name": "Bisma",
+    "email": "Bisma@gmail.com ",
+    "profession": "Frontend Developer",
+    "skills": ["HTML", "CSS", "TYPESCRIPT"]
+  },
+  {
+    "rollNumber":485895,
+    "name": "Sidra Raza",
+    "email": "SidraRaza@gmail.com ",
+    "profession": "Frontend Developer",
+    "skills": ["HTML", "CSS", "TYPESCRIPT"]
+  },
+  {
+    "rollNumber":229175,
+    "name": "Habibullah",
+    "email": "SidraRaza@gmail.com ",
+    "profession": "Frontend Developer",
+    "skills": ["HTML", "CSS", "TYPESCRIPT"]
+  },
+  {
+    "rollNumber":478041,
+    "name": "Ibad Uddin Siddiqui",
+    "email": "IbadUddin@gmail.com ",
+    "profession": "Frontend Developer",
+    "skills": ["HTML", "CSS", "TYPESCRIPT"]
+  }
 ]
