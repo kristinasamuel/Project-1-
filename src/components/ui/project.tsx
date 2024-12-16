@@ -92,8 +92,8 @@ export default function Project() {
               <p className="text-[23px] font-semibold">
                 Welcome, {member.name}!
               </p>
-              <p>Title:{member.profession} </p>
-              <p>Email: {member.email}</p>
+              <p>Title: {member.profession} </p>
+              <p>Email:  {member.email}</p>
             </div>
           ) : (
             error && <p className="text-red-500">{error}</p>
