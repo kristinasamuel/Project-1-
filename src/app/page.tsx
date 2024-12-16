@@ -1,6 +1,4 @@
-//  HOME PAGE
-"use client"
-
+// home page
 import Project from "@/components/ui/Project";
 export default function Home() {
   return (
