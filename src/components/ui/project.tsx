@@ -47,7 +47,7 @@ export default function Project() {
         setError("");
       } else {
         setMember(null);
-        setError("you are not a member of team zeta group");
+        setError("Oh,sorry! you are not a part of Team Zeta Group.");
       }
     } catch (err) {
       console.error("error fetching to find a member:", err);
