@@ -1,5 +1,5 @@
 // A project to find and display group members; if not found, an error message is shown
-"use client";
+
 import {
   Card,
   CardContent,
